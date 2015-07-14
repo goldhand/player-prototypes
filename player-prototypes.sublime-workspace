@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q",
+				"queryset"
+			],
+			[
+				"provi",
+				"provideFeedback"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"fav",
+				"favoriteNode"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pdding",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wait",
+				"wait_time"
+			],
+			[
+				"cre",
+				"create_limited_products"
+			],
+			[
+				"acc",
+				"account_legal_name"
+			],
+			[
+				"acct",
+				"acct_type"
+			],
+			[
+				"TEMP",
+				"TEMP_MSG_PART_2"
+			],
+			[
+				"TEMP_M",
+				"TEMP_MSG_PART_1"
+			],
+			[
+				"msg",
+				"msg_context"
+			],
+			[
+				"state_medical_se",
+				"state_medical_message"
+			],
+			[
+				"stat",
+				"state_medical_message"
+			],
+			[
+				"html_",
+				"html_message_list"
+			],
+			[
+				"state",
+				"state_sell_request	forflow"
+			],
+			[
+				"mess",
+				"message_list	statement"
+			],
+			[
+				"req",
+				"request_obj	forflow"
+			],
+			[
+				"all",
+				"all_purchase	statement"
+			],
+			[
+				"p",
+				"PurchaseRequest	class"
+			],
+			[
+				"ccx",
+				"ccx_requests	import"
+			],
+			[
+				"acco",
+				"accountInit"
+			],
+			[
+				"state-warn",
+				"state-warning-text"
+			],
+			[
+				"panel-head",
+				"panel-heading-link-color"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"val",
+				"validators"
+			],
+			[
+				"User",
+				"UserListView	class"
+			],
+			[
+				"prod",
+				"product_type"
+			],
+			[
+				"gen",
+				"generic_bulk"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"SellRe",
+				"SellRequest	import"
+			],
+			[
+				"pro",
+				"productApp"
+			],
+			[
+				"getGe",
+				"getGenericProductUrl"
+			],
+			[
+				"product",
+				"product_url"
+			],
+			[
+				"Pur",
+				"PurchaseRequestViewSet	class"
+			],
+			[
+				"Pu",
+				"PurchaseRequestLimitedSerializer	import"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"nu-na",
+				"nu-nav-2"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Gener",
+				"GenericProduct	import"
+			],
+			[
+				"ver",
+				"verified_acct_owner"
+			],
+			[
+				"Sell",
+				"SellRequestFormView	class"
+			],
+			[
+				"ref",
+				"refeshAccounts"
+			],
+			[
+				"Acc",
+				"AccountApplicationViewSet	class"
+			],
+			[
+				"ex",
+				"extractionmediums	import"
+			],
+			[
+				"request_a",
+				"request_account_name"
+			],
+			[
+				"ro",
+				"row	forflow"
+			],
+			[
+				"requ",
+				"request_img"
+			],
+			[
+				"send",
+				"sendRequestToCache"
+			],
+			[
+				"Re",
+				"RequestImageSerializer"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"unit_",
+				"unit_of_measure"
+			],
+			[
+				"purchase",
+				"purchase_request"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"sell",
+				"sell_request"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"purc",
+				"purchase_request"
+			],
+			[
+				"STAT",
+				"STATIC_URL	statement"
+			],
+			[
+				"loc",
+				"locationCoords"
+			],
+			[
+				"loadMar",
+				"loadMarkersForAccts"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"act",
+				"active_ind	statement"
+			],
+			[
+				"Se",
+				"SellRequestImage	class"
+			],
+			[
+				"Rev",
+				"ReviewViewSet	class"
+			],
+			[
+				"list-v",
+				"list-view-item-content-detail"
+			],
+			[
+				"Pr",
+				"PurchaseRequestForm	import"
+			],
+			[
+				"nu",
+				"nu-nav-1"
+			],
+			[
+				"nu-",
+				"nu-nav-2"
+			],
+			[
+				"accoun",
+				"accountApp"
+			],
+			[
+				"P",
+				"PurchaseRequestPartialEditView	class"
+			],
+			[
+				"UserDe",
+				"UserDetailSerializer	import"
+			],
+			[
+				"App",
+				"AppView	class"
+			],
+			[
+				"APp",
+				"AppAnonView	class"
+			],
+			[
+				"Lo",
+				"LoginRequiredMixin	import"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"Accou",
+				"AccountApplication	class"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"in",
+				"include	import"
+			],
+			[
+				"account",
+				"AccountApplicationList	class"
+			],
+			[
+				"A",
+				"AccountApplicationViewSet	class"
+			],
+			[
+				"Loc",
+				"LocationForm	class"
+			],
+			[
+				"add",
+				"addr_zip_5"
+			],
+			[
+				"to",
+				"to_user"
+			],
+			[
+				"leaf",
+				"leafly_request	statement"
+			],
+			[
+				"lea",
+				"leafly_request	statement"
+			],
+			[
+				"out",
+				"outSplitsSplits"
+			],
+			[
+				"ou",
+				"outSplitsSplits"
+			],
+			[
+				"Ac",
+				"AccountPostSerializer	class"
+			],
+			[
+				"height",
+				"height_field"
+			],
+			[
+				"pr",
+				"product_type	forflow"
+			],
+			[
+				"consi",
+				"consitency	forflow"
+			],
+			[
+				"Genr",
+				"GenericProduct	import"
+			],
+			[
+				"filter",
+				"filterInbox"
+			],
+			[
+				"Mes",
+				"MessagePostSerializer	import"
+			],
+			[
+				"M",
+				"MessagePostSerializer	class"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"productT",
+				"productTypeDisplayClasses"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"glo",
+				"global-search-dropdown"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"pan",
+				"panel-compose"
+			],
+			[
+				"sel",
+				"selectNoStrain"
+			],
+			[
+				"Ex",
+				"ExtractionMedium	import"
+			],
+			[
+				"type",
+				"type_model	forflow"
+			],
+			[
+				"Ge",
+				"GenericProductDetailSerializer	class"
+			],
+			[
+				"Gen",
+				"GenericProductListSerializer	class"
+			],
+			[
+				"strainO",
+				"strainOrderOption"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"accou",
+				"account_legal_name"
+			],
+			[
+				"Pro",
+				"ProductDetailSerializer	class"
+			],
+			[
+				"Prod",
+				"ProductForm	class"
+			],
+			[
+				"Mod",
+				"ModelForm	ModelForm"
+			],
+			[
+				"node-",
+				"node-decision"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package ina",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/goldhand/projects/instructor_code_challenge/instructor_code_challenge/ruby-backend-starter-code/app.rb",
+		"/Users/goldhand/projects/instructor_code_challenge/instructor_code_challenge/ruby-backend-starter-code/views/index.html",
+		"/Users/goldhand/projects/instructor_code_challenge/instructor_code_challenge/ruby-backend-starter-code/data.json",
+		"/Users/goldhand/projects/instructor_code_challenge/instructor_code_challenge/ruby-backend-starter-code/public/views/imdb-detail.html",
+		"/Users/goldhand/projects/instructor_code_challenge/instructor_code_challenge/ruby-backend-starter-code/public/views/detail.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/word-slider-cta.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/images/omg_bg.png",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/avaz-main.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/word-slider-cta.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/welcome.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/omd-footer.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/omd-home-icons.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/avaz/custom.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/slider-fullwidth.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/progress-form.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/avaz/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/glueboss-colors.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/glueboss-deliverable.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/components/vertical-carousel.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/avaz-home.php",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/progress-form.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/footer-copyright.html",
+		"/Users/goldhand/projects/bootstrap-builder/mksite.sh",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/slider-fullwidth.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/ccx/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/ccx/custom.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/ccx-home.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/section.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/tile-list.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/main.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/legacy-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrapify/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrapify/router.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrap/custom.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/tile-list.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/template.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/components/template.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/pages/template.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sites/template.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/components/navbar-gradient.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/features-showcase.html",
+		"/Users/goldhand/projects/bootstrap-builder/mkpage.sh",
+		"/Users/goldhand/projects/bootstrap-builder/mkPage.sh",
+		"/Users/goldhand/projects/bootstrap-builder/mktheme.sh",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/mrbeer/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/mrbeer/router.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/mrbeer/custom.less",
+		"/Users/goldhand/projects/mrbeer/builder/css/mrbeer.min.css",
+		"/Users/goldhand/projects/mrbeer/builder/mrbeer-livepage.html",
+		"/Users/goldhand/projects/mrbeer/builder/html/mrbeer-kits.html",
+		"/Users/goldhand/projects/mrbeer/kits_page_2014_10_19a.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sites/mrbeer-kits.html",
+		"/Users/goldhand/projects/bootstrap-builder/html/sites/mrbeer-livepage.html",
+		"/Users/goldhand/projects/mrbeer/builder/README.md",
+		"/Users/goldhand/projects/mrbeer/builder/html/sites/mrbeer-kits.html",
+		"/Users/goldhand/projects/mrbeer/builder/html/sites/mrbeer-livepage.html",
+		"/Users/goldhand/projects/bootstrap-builder/css/mrbeer.min.css",
+		"/Users/goldhand/projects/bootstrap-builder/html/sites/mrbeer.html",
+		"/Users/goldhand/Documents/mrbeer/mrbeer 3 kit page/new kits page 2.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/mrbeer/bootstrap.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/mrbeer.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/about-us.less",
+		"/Users/goldhand/projects/bootstrap-builder/css/bootstrap.min.css",
+		"/Users/goldhand/projects/bootstrap-builder/css/pamukovich.min.css",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/danmar/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/jackson-tile/custom.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/danmar/custom.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/danmar/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/template/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/pamukovich/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/jackson-tile/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/green/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrap/section-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/contact.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/about-us.html",
+		"/Users/goldhand/projects/bootstrap-builder/about-us.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrap/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/contact.html",
+		"/Users/goldhand/projects/bootstrap-builder/bower_components/bootstrap/less/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/pamukovich/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/template/variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/component.less",
+		"/Users/goldhand/projects/bootstrap-builder/README.md",
+		"/Users/goldhand/projects/bootstrap-builder/mkcomponent.sh",
+		"/Users/goldhand/projects/bootstrap-builder/mksection.sh",
+		"/Users/goldhand/projects/bootstrap-builder/html/components/tets.html",
+		"/Users/goldhand/projects/bootstrap-builder/css.sh",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/bootstrap.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/nav-tabs-lined.less",
+		"/Users/goldhand/projects/bootstrap-builder/bower_components/bootstrap/less/mixins.less",
+		"/Users/goldhand/projects/bootstrap-builder/CONTRIBUTORS.txt",
+		"/Users/goldhand/projects/bootstrap-builder/LICENSE.md",
+		"/Users/goldhand/projects/bootstrap-builder/serve.sh",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/template/router.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/bootstrap/router.less",
+		"/Users/goldhand/projects/bootstrap-builder/html/sections/nav-tabs-lined.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/template/additional-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/themes/template/nu-variables.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/components/colorwheel.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/test.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/sections/template.html",
+		"/Users/goldhand/projects/bootstrap-builder/less/routers/config.less",
+		"/Users/goldhand/projects/bootstrap-builder/less/variables/themes",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/tests/__init__.py",
+		"/Users/goldhand/projects/ccx/ccx/templates/account/login.html",
+		"/Users/goldhand/projects/ccx/ccx/config/settings.py",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/test.py",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/tests/auth.py",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/tests/marketplace.py",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/tests/accounts.py",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/fixtures.json",
+		"/Users/goldhand/projects/ccx/ccx/selenium_tests/test_products.py",
+		"/Users/goldhand/projects/ccx/ccx/users/tests/__init__.py",
+		"/Users/goldhand/projects/ccx/ccx/users/test.py",
+		"/Users/goldhand/projects/ccx/ccx/users/tests/auth.py",
+		"/Users/goldhand/projects/ccx/ccx/users/tests.py",
+		"/Users/goldhand/projects/ccx/ccx/products/views.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/views.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/models.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/views.py",
+		"/Users/goldhand/projects/ccx/ccx/accounts/templates/accounts/partials/detail.html",
+		"/Users/goldhand/projects/ccx/ccx/templates/account/email/email_confirmation_message.txt",
+		"/Users/goldhand/projects/ccx/ccx/users/utils.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/models.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_messages/views.py",
+		"/Users/goldhand/projects/ccx/ccx/users/views.py",
+		"/Users/goldhand/projects/ccx/ccx/ccx_requests/static/app/js/services/requestServices.js",
+		"/Users/goldhand/projects/ccx/ccx/app_base/static/app/js/controllers.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"checkRes",
+			"favoritesCtrl",
+			"createFavoriteButtonNode",
+			"getMovie",
+			"getMovie(",
+			"displayMovieQuerySet",
+			"eventTarget",
+			"event.target",
+			"favoritesCtrl.createButton",
+			"listDisplay",
+			"res[i]",
+			"displayMovieQuerySet",
+			"query",
+			"res",
+			"ovideFeedback",
+			"listFavorites",
+			"itesModule",
+			"oritesModule",
+			"module",
+			"Module",
+			"favoriteButton",
+			"tnNod",
+			"buttonNode",
+			"uttonNod",
+			"buttonNode",
+			"join",
+			"__init__",
+			"ponse",
+			"resonse",
+			"res",
+			"favoriteNo",
+			"favorite",
+			"nodeParent",
+			"x-width: @screen-sm",
+			"idth: @screen-sm",
+			"min-height: @VIDEO_MIN_HEIGHT;",
+			"min-height:",
+			"in-width: @screen-lg",
+			"padding-top",
+			"min-height: 400",
+			"window.innerHeight+'px'",
+			"z-in",
+			".engaged",
+			"#97bf07",
+			">/<",
+			"/",
+			"1s",
+			"e-in",
+			"selector eg",
+			" or '.classname'",
+			"sectionSizer.setHeights",
+			"videoSizer.centerVideo",
+			"bg-video-text-overlay",
+			"30",
+			"20",
+			"-sm-",
+			"ol-lg-2",
+			"http://onlinemjdesign.com/wp-content/uploads/2014/09/cannabis-marketing-agency-seattle-online-marijuana-design1.png",
+			"<a href=\"#\">",
+			"ass=\"col-lg",
+			"gn1.png\" alt=\"\"></a>",
+			"tion()",
+			"progressForm",
+			"this.timer",
+			"#f1f1f1",
+			"carousel_img_",
+			"carousel_img_1",
+			"arousel_img_1",
+			"company_i",
+			"al_1",
+			"carousel_img_1",
+			"el_img_1",
+			"usel_img_1",
+			"el_img_1",
+			"usel_img_1",
+			"image",
+			"logo_img",
+			"company_img",
+			"company_",
+			"image",
+			"stepIsActive",
+			"progressKeyupTimeout",
+			"stepN",
+			"stepNo",
+			"progressForm",
+			"p(i",
+			"i",
+			"inputs",
+			"value=\"\"",
+			"left:",
+			"left",
+			"width",
+			"btn-checkbox-group",
+			"btn btn-",
+			"60px",
+			"@textarea-lined-height",
+			"col-md-4 ",
+			"fa ",
+			"p>",
+			"checkbox-inline ",
+			"ol-sm-1",
+			"col-sm-2",
+			"s=\"btn",
+			"s=\"checkbox-btn\">",
+			" type=\"checkbox\" value=\"",
+			" class=\"btn\"",
+			"div",
+			"checkbox-inline",
+			"tn btn-default",
+			"<label>",
+			"a href=\"#\"",
+			"<a href=\"#\">",
+			"<li clas",
+			"5px",
+			" col-md-4",
+			"col-sm-4",
+			"31px",
+			"30px",
+			"linear",
+			"\"btn",
+			"h1",
+			" btn-primary",
+			"id_",
+			"</li>",
+			"<li>",
+			"option",
+			" col-md-2",
+			"@@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$scope",
+			" = ",
+			"= ",
+			"=",
+			">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.172624454942,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/goldhand/projects/d2f/d2f.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,10 @@
+{
+    "name": "player-prototypes",
+    "version": "0.0.0",
+    "dependencies": { 
+                "bootstrap": "~3.0.0",
+             
+            "jquery": "~1.9.0"
+    },
+    "devDependencies": {}
+}
