@@ -83,7 +83,9 @@ __Problem__: How can you make Bran inherit the print method from his constructor
 
 
 
+### Step Two
 
+Goal: Create an object that inherits from an object that inherits from another object
 
 
 
