@@ -10,15 +10,31 @@
         console.log(this.name);  // log the name of the player object
       };
     // create a new instance of a player object using the Player template
-    var branObj = new Player('Bran');
-    // use the print function the branObj should have inherited
+    var bran = new Player('Bran');
+    // use the print function the bran should have inherited
     try {
-      branObj.print();
+        // try to run the print function that bran 
+      bran.print();
     } catch (e) {
+        // log the error message
         console.log(e);
-        // Uncaught TypeError: branObj.print is not a function
+        // Uncaught TypeError: bran.print is not a function
       }
-    // How do you make branObj inherit the print() function?
+    // How do you make bran inherit the print() function?
 
+    // SOLUTION
+    // use the prototype to property to define a template for the Bran
+
+    Player.prototype.print = function () {
+        // use the prototype property to pass functions and attributes from the
+        // prototype to the object instance
+        console.log(this.name);
+      };
+
+    // run Player.prototype.print() again
+    bran.print();  // works :)
+    
+    // ** notice: you can assign the print function even after you instantiated
+    // the player class. Why is that? Javascript objects are Mutable
 
   }());

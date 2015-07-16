@@ -27,12 +27,63 @@ and used to using "Classes" to acheive inheritence
 
 ### Preparation
 * Laptop
-* Follow along by creating a new vanilla js project or forking the repository
+* Follow along by creating a new vanilla js project or just review by forking the repository {{repo}}
+
+If you are creating a new javascript project and plan on writing your own code 
+while going through this:
+
+..code-block: bash
+
+  yo vanillajs 
+
+and just follow instructions
+
+If you are going to use the github and follow along from there you shold fork
+or clone the {{repo}}
+
+..code-block: bash
+
+  git clone {{repo}}
+
+Then checkout into the project start
+
+..code-block: bash
+
+  git checkout -f start
 
 
 Lesson
 ------
 
-1. 
+### Step One
+
+Goal: Create an object that can inherit from another object
+
+if you are following along from the github repository, checkout into step one
+
+..code-block: bash
+
+  git checkout -f step01
+
+otherwise just follow along
+
+1. Open up `app/scripts/main.js` its the file we will be working on
+2. Create a simple Player object that takes one argument, name, and assigns it 
+to that objects `this` attribute.
+3. Define a function called `print` that log's that objects name into the console
+4. Create a new instance of the Player object named Bran
+5. Try to have Bran print his name
+
+There will be an exception when Bran tries to print his name. The exception explains
+that Bran has no function called `print`.
+
+We need to accomplish our goal though: to "Create an object that can inherit from another object"
+
+__Problem__: How can you make Bran inherit the print method from his constructor class?
+
+
+
+
+
 
 
