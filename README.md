@@ -85,7 +85,19 @@ __Problem__: How can you make Bran inherit the print method from his constructor
 
 ### Step Two
 
-Goal: Create an object that inherits from an object that inherits from another object
+Goal: Come up with a class like warrior and make it inherit from the Player class
+check that it works by initializing the new class player and having them print their name
+
+1. create a new javascript object called your class name eg 'Mage'
+2. Assign your new class's prototype property to a new instance of the Player class
+3. Initialize an object using the new class and have it print it's name
+
+
+
+### Step Three
+
+Goal: Dynamically set names of the objects so that all mages are not named Maggie
+
 
 
 

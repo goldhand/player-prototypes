@@ -42,22 +42,14 @@
 
     // Step 02
 
-    // while the above solution works, you could have just defined the print
-    // function inside the Player object
-    function Player(name) {
-        // Convention for Classes in OOP and javascript is to TitleCase them
-        this.name = name;  // the only attribute for player class is 'name'
-        this.print = function () {
-            console.log('My name is ' + this.name);  // log the name of the player object
-          };
-      }
-
-    // so why do we need the prototype property?
-    // memory effecient! setting to prototype means all objects share the same
-    // reference.
-
     // lets create a new Class that will inherit from the abstract base class: Player
-
+    function Mage() {}  // new Mage object
+    // set the Mage objects prototype to a new instance of the Player class
+    Mage.prototype = new Player('Maggie');  // this is a blue print so we don't want to be passing "name" option into it but we will say all mage are named Maggie for now
+    // create a mage named Maggie
+    var maggie = new Mage();
+    // maggie can use the Player.prototype.print method
+    maggie.print();
 
 
 
