@@ -1,53 +1,46 @@
 <!doctype html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>player-prototypes</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-        
-        <link rel="stylesheet" href="styles/main.css">
-    </head>
-    <body>
-        <div class="container">
-            <div class="header">
-                <ul class="nav nav-pills pull-right">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-                <h3 class="text-muted">player-prototypes</h3>
-            </div>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>player-prototypes</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h3 class="text-muted">player-prototypes</h3>
+      </div>
 
-            <div class="jumbotron">
-                <h1>Yo VanillaJS</h1>
-                <p class="lead">Kickin' it old school.</p>
-                <p><a class="btn btn-lg btn-success" href="#">Word to your mother</a></p>
-            </div>
+      <div class="jumbotron">
+        <form class="form" id="player-create-form">
+          <div class="form-group">
+            <label for="player-name">Name</label>
+            <input class="form-control" type="text" id="id_player-name" name="player-name" required>
+          </div>
+          <div class="form-group">
+            <label for="player-class">Class</lable>
+            <select class="form-control" id="id_player-class" name="player-class">
+              <option value="mage">Mage</option>
+              <option value="warrior">Warrior</option>
+              <option value="assassin">Assassin</option>
+            </select>
+          </div>
+          <div class="form-actions">
+            <button class="btn btn-primary" type="submit">Create Player</button>
+          </div>
+        </form>
+      </div><!--/jumbotron-->
+      <div class="row" id="player-list"></div>
 
-            <div class="row marketing">
-                <div class="col-lg-6">
-                    <h4>yo vanillajs:module "modulename"</h4>
-                    <p>Use the vanillajs:module subgenerator to quickly get a new Javascript module/class on the scene, you know what I mean?</p>
-                </div>
-            </div>
-
-            <div class="row marketing">
-                <div class="col-lg-6">
-                    <h4>test test baby</h4>
-                    <p>As new modules are created, they will automatically be included in the QUnit test suite - just add your assertions to tests/test.js and "grunt test" boyyyyyyyy!</p>
-                </div>
-            </div>
-
-            <div class="footer">
-                 <p>&copy; A1A Beachfront Ave.</p>
-            </div>
-
-        </div>
-        <script src="bower_components/jquery/jquery.min.js"></script>
-        <!-- Begin VanillaJS Modules -->
-        <!-- End VanillaJS Modules -->
-        <script src="scripts/main.js"></script>
+      
+    </div>
+    <script src="bower_components/jquery/jquery.min.js"></script>
+    <!-- Begin VanillaJS Modules -->
+    <!-- End VanillaJS Modules -->
+    <script src="scripts/main.js"></script>
 </body>
 </html>
